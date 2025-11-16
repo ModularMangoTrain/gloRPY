@@ -14,7 +14,7 @@ A lightweight serial terminal application for Windows, similar to PuTTY/TeraTerm
 ## Building
 
 ### Requirements
-- Qt 5 or Qt 6
+- Qt 6 and above
 - MinGW or MSVC compiler
 - Qt Creator (recommended)
 
